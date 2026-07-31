@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: skirt-fits-photometry
+message: If you use this software, please cite it.
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Rittik Ram
+    orcid: https://orcid.org/0009-0003-4732-3536
+repository-code: https://github.com/smartrittik/skirt-fits-photometry
+abstract: Annulus-sum photometry on SKIRT radiative transfer FITS output cubes.
+license: BSD-3-Clause
+version: 1.0.0
